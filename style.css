@@ -1,0 +1,10 @@
+#score {
+  display: flex;
+  justify-content: center;
+  font-size: 40px;
+}
+
+#container {
+  display: flex;
+  justify-content: center;
+}
